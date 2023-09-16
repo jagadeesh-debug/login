@@ -23,7 +23,8 @@ body{
  
 }
 .container h2{
-    text-align:center
+    text-align:center;
+    color:black;
 }
 .container .box1{
     height:40px;
