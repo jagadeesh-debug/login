@@ -4,7 +4,7 @@
     box-sizing:border-box ;
 }
 .container{
- width:50%;
+ width:400px;
    position:relative;
    top:5%;
 }
